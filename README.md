@@ -1,4 +1,5 @@
 # ikev2
 Setup bash script
 
-run `bash setup.sh`
+Tested only Servers Ubuntu 18.04 & Ubuntu 20.04
+`bash setup.sh`
