@@ -29,7 +29,7 @@ echo -e "\nUpgrading finished\n"
 fi
 
 echo -e "\n \033[32m* \033[0m Installing \033[35mStrongSwan\033[0m"
-sudo apt install strongswan strongswan-pki
+sudo apt install strongswan strongswan-pki libstrongswan-extra-plugins libcharon-extra-plugins
 
 echo -e "\n \033[32m* \033[0m Creating \033[35mCA\033[0m files"
 
